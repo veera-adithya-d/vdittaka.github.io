@@ -3,7 +3,7 @@ author:
   name: Veera Adithya Dittkavi
   email: veera.adithya.d@gmail.com
 
-logo: /assets/headshot.png
+logo: headshot.png
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
