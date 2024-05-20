@@ -1,4 +1,4 @@
-title: Machine Learning Portfolio
+title: Veera Adithya Dittakavi
 author:
   name: Veera Adithya Dittkavi
   email: veera.adithya.d@gmail.com
@@ -11,7 +11,7 @@ description: >
 # Build settings
 
 # If you clone the Minima repo and build locally, use this setting.
-theme: minima
+theme: jekyll-theme-minimal
 
 # As of November 2023, GitHub Pages still uses Minima 2.5.1 (https://pages.github.com/versions/). 
 # If you want to use the latest Minima version on GitHub Pages, use the following setting and 
@@ -31,18 +31,6 @@ plugins:
 
 # Set to `true` to show excerpts on the homepage.
 #show_excerpts: false
-
-# Minima specific settings, which are only available from Minima 3.0 onward.
-minima:
-  # Minima skin selection.
-  # Available skins are:
-  # classic	           Default, light color scheme.
-  # dark	             Dark variant of the classic skin.
-  # auto	             Adaptive skin based on the default classic and dark skins.
-  # solarized-light	   Light variant of solarized color scheme.
-  # solarized-dark	   Dark variant of solarized color scheme.
-  # solarized	         Adaptive skin for solarized color scheme skins.
-  skin: classic
   
   # Minima date format.
   # The default value is "%b %d, %Y" (e.g. Nov 14, 2023) 
