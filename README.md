@@ -22,9 +22,11 @@
 
 ## Projects
 **Video Captioning - Optimizing LLM method**
+
 [Manuscript](https://drive.google.com/file/d/1d7rtFOZPKguYlPh-LtneuUWeiwIeyZhv/view?usp=sharing)
 
 - Tackled the challenge of narrating scenes in videos without audio cues by designing a zero-shot captioning approach and incorporating short-term context that achieved more consistent and detailed descriptions.
 - Addressed variance issues in state-of-the-art frameworks, enhancing the clarity and coherence of generated captions.
+- Skills: Python, Multi-modal application, LLM, Transformers, PyTorch, Linux, AWS
 
-[![Demo](https://i3.ytimg.com/vi/8CfJJeCQRaE/maxresdefault.jpg)](https://youtu.be/8CfJJeCQRaE)
+[![Demo](TopGunMaverick.gif)](https://youtu.be/8CfJJeCQRaE)
