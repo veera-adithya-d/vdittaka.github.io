@@ -8,5 +8,5 @@ logo: headshot.png
 description: >
   Explore my portfolio showcasing machine learning track in computer vision, natural language processing, and optimization, along with my research outputs.
 theme: jekyll-theme-minimal
-
+custom_css: custom.css
 
