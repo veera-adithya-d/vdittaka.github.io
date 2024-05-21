@@ -29,4 +29,4 @@
 - Addressed variance issues in state-of-the-art frameworks, enhancing the clarity and coherence of generated captions.
 - Skills: Python, Multi-modal application, LLM, Transformers, PyTorch, Linux, AWS
 
-![[Demo](TopGunMaverick.gif)](https://youtu.be/8CfJJeCQRaE)
+<img src="{{site.baseurl | prepend: site.url}}TopGunMaverick.gif" alt="videocaptioning" />
